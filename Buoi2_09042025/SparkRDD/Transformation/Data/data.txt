@@ -1,0 +1,24 @@
+LaTeX examples
+This is a simple page showing a few LaTeX examples. I recommend using LaTeX for any document that needs to look professional (like theses, dissertations, conference papers, and journal papers).
+Here is a very small example small example LaTeX file.
+Here is another example LaTeX file you can see in your browser, along with the original version as a .tex file.
+Here is the figure used in that example(.eps).
+Here is a log* of the commands I used to process the LaTeX file.
+Here is the final document in postscript format, .pdf format, and as images.
+Here is an example table file (to be inserted in a LaTeX document).
+Now we'll include a table, subsections, and two column format with the above example. Actually, there are two more examples, a conference and a journal paper. These conform with the format used by the IEEE professional organization.
+
+The first one is a conference-style paper, that needs the class file IEEEconf.cls.
+
+Here is a conference original version as a .tex file.
+Commands used to make it*
+Here is the final document in postscript format, .pdf format, and as images.
+The next example is of a journal-style paper, that needs the class file ieee.cls.
+
+Here is a journal original version as a .tex file.
+Commands used to make it*
+Here is the final document in postscript format, .pdf format, and as images.
+* These commands are what you would type from a terminal prompt. There are plenty of front-ends available that provide a nice GUI. I like to use TeXShop on my Mac.
+
+This page is currently located at:
+https://hallertau.cs.gsu.edu/~mweeks/latex/index.html
